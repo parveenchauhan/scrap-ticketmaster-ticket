@@ -1,0 +1,201 @@
+[
+  {
+    "eventInfo": {
+      "en": {
+        "limitInfo": {
+          "title": "Limit Info",
+          "order": 1,
+          "field": "limitInfo"
+        },
+        "seatRules": {
+          "title": "Seat Rules",
+          "order": 2,
+          "field": "seatRules"
+        },
+        "socialDistancing": {
+          "title": "Social Distancing",
+          "order": 3,
+          "field": "socialDistancing"
+        },
+        "customTab": {
+          "isEnabled": false,
+          "title": "Custom Tab",
+          "content": "",
+          "order": 4,
+          "field": "customTab"
+        }
+      },
+      "fr-ca": {
+        "limitInfo": { "title": "Limites", "order": 1, "field": "limitInfo" },
+        "seatRules": {
+          "title": "Règles de siège",
+          "order": 2,
+          "field": "seatRules"
+        },
+        "socialDistancing": {
+          "title": "Distanciation physique",
+          "order": 3,
+          "field": "socialDistancing"
+        },
+        "customTab": {
+          "isEnabled": false,
+          "title": "Onglet personnalisé",
+          "content": "",
+          "order": 4,
+          "field": "customTab"
+        }
+      },
+      "event-info-popup-switch": { "isEnabled": false }
+    }
+  },
+  {
+    "priceData": {
+      "priceCode": {
+        "data": {
+          "B": {
+            "description": "",
+            "maxContigSeats": 1,
+            "data": ["_N~BN~1845~New~~~0~1~999~New"]
+          },
+          "D": {
+            "description": "",
+            "maxContigSeats": 2,
+            "data": ["_N~DN~1460~New~~~0~1~999~New"]
+          },
+          "E": {
+            "description": "",
+            "maxContigSeats": 4,
+            "data": ["_N~EN~1405~New~~~0~1~999~New"]
+          },
+          "H": {
+            "description": "",
+            "maxContigSeats": 8,
+            "data": ["_N~HN~1190~New~~~0~1~999~New"]
+          },
+          "I": {
+            "description": "",
+            "maxContigSeats": 7,
+            "data": ["_N~IN~1075~New~~~0~1~999~New"]
+          },
+          "J": {
+            "description": "",
+            "maxContigSeats": 3,
+            "data": ["_N~JN~990~New~~~0~1~999~New"]
+          },
+          "K": {
+            "description": "",
+            "maxContigSeats": 4,
+            "data": ["_N~KN~920~New~~~0~1~999~New"]
+          },
+          "M": {
+            "description": "",
+            "maxContigSeats": 3,
+            "data": ["_N~MN~860~New~~~0~1~999~New"]
+          },
+          "N": {
+            "description": "",
+            "maxContigSeats": 24,
+            "data": ["_N~NN~790~New~~~0~1~999~New"]
+          },
+          "Q": {
+            "description": "",
+            "maxContigSeats": 6,
+            "data": ["_N~QN~625~New~~~0~1~999~New"]
+          },
+          "R": {
+            "description": "",
+            "maxContigSeats": 20,
+            "data": ["_N~RN~615~New~~~0~1~999~New"]
+          },
+          "S": {
+            "description": "",
+            "maxContigSeats": 1,
+            "data": ["_N~SN~505~New~~~0~1~999~New"]
+          }
+        },
+        "header": "ticketType~completePriceCode~amount~name~fundDescription~fundAmount~isAdditional~minLimit~maxLimit~description",
+        "isAccountRestricted": false
+      },
+      "minSeatLimit": 1,
+      "maxSeatLimit": 4,
+      "maxOrderLimit": 1
+    }
+  },
+  {
+    "venueAvailability": {
+      "section": {
+        "data": [
+          "109~1~B~0~~0~0~~~~~~~~1~",
+          "401~2~J~0~~0~0~~~~~~~~2~",
+          "402~2~J~0~~0~0~~~~~~~~2~",
+          "403~8~J~0~~0~0~~~~~~~~8~",
+          "404~15~K~0~~0~0~~~~~~~~15~",
+          "406~5~K~0~~0~0~~~~~~~~5~",
+          "407~11~I~0~~0~0~~~~~~~~11~",
+          "408~7~H~0~~0~0~~~~~~~~7~",
+          "409~10~E~0~~0~0~~~~~~~~10~",
+          "410~2~D~0~~0~0~~~~~~~~2~",
+          "416~4~D~0~~0~0~~~~~~~~4~",
+          "417~10~E~0~~0~0~~~~~~~~10~",
+          "418~11~H~0~~0~0~~~~~~~~11~",
+          "419~14~I~0~~0~0~~~~~~~~14~",
+          "420~4~K~0~~0~0~~~~~~~~4~",
+          "422~6~K~0~~0~0~~~~~~~~6~",
+          "424~3~J~0~~0~0~~~~~~~~3~",
+          "425~3~J~0~~0~0~~~~~~~~3~",
+          "428~2~J~0~~0~0~~~~~~~~2~",
+          "430~2~J~0~~0~0~~~~~~~~2~",
+          "431~1~K~0~~0~0~~~~~~~~1~",
+          "433~9~K~0~~0~0~~~~~~~~9~",
+          "434~5~I~0~~0~0~~~~~~~~5~",
+          "435~7~H~0~~0~0~~~~~~~~7~",
+          "436~8~E~0~~0~0~~~~~~~~8~",
+          "437~4~D~0~~0~0~~~~~~~~4~",
+          "444~1~E~0~~0~0~~~~~~~~1~",
+          "445~10~H~0~~0~0~~~~~~~~10~",
+          "446~4~I~0~~0~0~~~~~~~~4~",
+          "447~4~K~0~~0~0~~~~~~~~4~",
+          "449~4~K~0~~0~0~~~~~~~~4~",
+          "450~7~J~0~~0~0~~~~~~~~7~",
+          "451~2~J~0~~0~0~~~~~~~~2~",
+          "453~2~J~0~~0~0~~~~~~~~2~",
+          "605~1~S~0~~0~0~~~~~~~~1~",
+          "607~6~Q~0~~0~0~~~~~~~~6~",
+          "608~16~Q~0~~0~0~~~~~~~~16~",
+          "609~2~Q~0~~0~0~~~~~~~~2~",
+          "610~10~N~0~~0~0~~~~~~~~10~",
+          "611~2~N~0~~0~0~~~~~~~~2~",
+          "612~30~M,N~0~~0~0~~~~~~~~6,24~",
+          "613~4~M,N~0~~0~0~~~~~~~~2,2~",
+          "614~54~M,N~0~~0~0~~~~~~~~8,46~",
+          "615~4~N~0~~0~0~~~~~~~~4~",
+          "616~8~N~0~~0~0~~~~~~~~8~",
+          "617~3~Q~0~~0~0~~~~~~~~3~",
+          "618~11~Q~0~~0~0~~~~~~~~11~",
+          "619~14~Q~0~~0~0~~~~~~~~14~",
+          "624~16~R~0~~0~0~~~~~~~~16~",
+          "625~20~R~0~~0~0~~~~~~~~20~",
+          "626~56~R~0~~0~0~~~~~~~~56~",
+          "627~81~R~0~~0~0~~~~~~~~81~",
+          "628~73~R~0~~0~0~~~~~~~~73~",
+          "629~33~R~0~~0~0~~~~~~~~33~",
+          "634~9~Q~0~~0~0~~~~~~~~9~",
+          "635~18~Q~0~~0~0~~~~~~~~18~",
+          "636~7~Q~0~~0~0~~~~~~~~7~",
+          "637~11~N~0~~0~0~~~~~~~~11~",
+          "638~6~N~0~~0~0~~~~~~~~6~",
+          "639~37~M,N~0~~0~0~~~~~~~~4,33~",
+          "640~5~M,N~0~~0~0~~~~~~~~4,1~",
+          "641~5~M,N~0~~0~0~~~~~~~~4,1~",
+          "642~3~N,R~0~~0~0~~~~~~~~2,1~",
+          "643~9~N~0~~0~0~~~~~~~~9~",
+          "644~9~Q,R~0~~0~0~~~~~~~~7,2~",
+          "645~15~Q~0~~0~0~~~~~~~~15~",
+          "646~6~Q~0~~0~0~~~~~~~~6~"
+        ],
+        "header": "sectionName~totalAvailableSeat~priceCode~isWheelChairEnabled~adaCodes~socialDistanceAvailableSeat~isOV~adaSeatCount~resaleSeatsCount~ptxSeatCount~seatAttributes~crc~prc~priceCodeAvailabilityAda~parentPriceCodeAvailCount~parentPriceSdAvailCount",
+        "adaInfo": {}
+      }
+    }
+  }
+]
